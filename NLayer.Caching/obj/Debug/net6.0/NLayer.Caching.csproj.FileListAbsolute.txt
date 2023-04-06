@@ -1,0 +1,12 @@
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Caching/bin/Debug/net6.0/NLayer.Caching.deps.json
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Caching/bin/Debug/net6.0/NLayer.Caching.dll
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Caching/bin/Debug/net6.0/NLayer.Caching.pdb
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.csproj.AssemblyReference.cache
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.AssemblyInfoInputs.cache
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.AssemblyInfo.cs
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.csproj.CoreCompileInputs.cache
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.dll
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Caching/obj/Debug/net6.0/refint/NLayer.Caching.dll
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.pdb
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Caching/obj/Debug/net6.0/ref/NLayer.Caching.dll

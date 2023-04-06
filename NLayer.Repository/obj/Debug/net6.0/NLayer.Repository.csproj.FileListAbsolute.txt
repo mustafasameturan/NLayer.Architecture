@@ -1,0 +1,17 @@
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Repository/bin/Debug/net6.0/NLayer.Repository.deps.json
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Repository/bin/Debug/net6.0/NLayer.Repository.dll
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Repository/bin/Debug/net6.0/NLayer.Repository.pdb
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Repository/bin/Debug/net6.0/NLayer.Core.dll
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Repository/bin/Debug/net6.0/NLayer.Core.pdb
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.csproj.AssemblyReference.cache
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.AssemblyInfoInputs.cache
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.AssemblyInfo.cs
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.csproj.CoreCompileInputs.cache
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.csproj.CopyComplete
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.dll
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Repository/obj/Debug/net6.0/refint/NLayer.Repository.dll
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.pdb
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Repository/obj/Debug/net6.0/ref/NLayer.Repository.dll
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Repository/bin/Debug/net6.0/NLayer.Repository.runtimeconfig.json
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.genruntimeconfig.cache
