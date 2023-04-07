@@ -6,7 +6,7 @@ public interface IGenericRepository<T> where T : class
 {
     Task<T> GetByIdAsync(int id);
 
-    IQueryable<T> GetAll(Expression<Func<T, bool>> expression);
+    IQueryable<T> GetAll();
 
     //İstediğimiz şekilde query yazalbildiğiniz için List yerine IQueryable kullandık 
     IQueryable<T> Where(Expression<Func<T, bool>> expression);

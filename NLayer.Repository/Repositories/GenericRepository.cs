@@ -20,7 +20,7 @@ public class GenericRepository<T> : IGenericRepository<T> where T : class
         return await _dbSet.FindAsync(id);
     }
 
-    public IQueryable<T> GetAll(Expression<Func<T, bool>> expression)
+    public IQueryable<T> GetAll()
     {
         //As no tracking kullanılarak dataların memory'e alınması engelleniyor
         //Performans kazanlıyor
