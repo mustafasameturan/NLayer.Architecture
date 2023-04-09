@@ -66,3 +66,6 @@
 /Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
 /Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.API/bin/Debug/net6.0/AutoMapper.dll
 /Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.API/bin/Debug/net6.0/FluentValidation.dll
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.API/bin/Debug/net6.0/FluentValidation.AspNetCore.dll
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.API/bin/Debug/net6.0/FluentValidation.DependencyInjectionExtensions.dll
