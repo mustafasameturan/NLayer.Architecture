@@ -12,7 +12,7 @@ public class ProductsController : CustomBaseController
     private readonly IMapper _mapper;
     private readonly IProductService _service;
 
-    public ProductsController(IMapper mapper, IService<Product> service, IProductService productService)
+    public ProductsController(IMapper mapper, IProductService productService)
     {
         _mapper = mapper;
         _service = productService;
@@ -32,6 +32,8 @@ public class ProductsController : CustomBaseController
         return CreateActionResult(CustomResponseDto<List<ProductDto>>.Success(200, productsDto));
     }
     
+    //Not found filter class'ı attribute sınıfını miras almadığı için direkt attribute olarak kullanamıyoruz!
+    [ServiceFilter(typeof(NotFoundFilter<Product>))]
     [HttpGet("{id}")]
     public async Task<IActionResult> GetById(int id)
     {
@@ -39,13 +41,23 @@ public class ProductsController : CustomBaseController
         var productDto = _mapper.Map<ProductDto>(product);;
         return CreateActionResult(CustomResponseDto<ProductDto>.Success(200, productDto));
     }
-    
+
     [HttpPost]
     public async Task<IActionResult> Save(ProductDto productDto)
     {
         var product = await _service.AddAsync(_mapper.Map<Product>(productDto));
         var productsDto = _mapper.Map<ProductDto>(product);;
         return CreateActionResult(CustomResponseDto<ProductDto>.Success(201, productDto));
+    }
+
+    [HttpPost("saveRange")]
+    public async Task<IActionResult> SaveRange(IEnumerable<ProductDto> productDto)
+    {
+        var products = _mapper.Map<IEnumerable<Product>>(productDto);
+        await _service.AddRangeAsync(products);
+
+        var productsDto = _mapper.Map<IEnumerable<ProductDto>>(products);
+        return CreateActionResult(CustomResponseDto<IEnumerable<ProductDto>>.Success(201, productsDto));
     }
     
     [HttpPut]

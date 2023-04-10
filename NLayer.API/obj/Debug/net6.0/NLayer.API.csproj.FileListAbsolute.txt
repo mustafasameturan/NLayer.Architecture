@@ -69,3 +69,7 @@
 /Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.API/bin/Debug/net6.0/FluentValidation.dll
 /Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.API/bin/Debug/net6.0/FluentValidation.AspNetCore.dll
 /Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.API/bin/Debug/net6.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.API/bin/Debug/net6.0/Autofac.dll
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.API/bin/Debug/net6.0/Autofac.Extensions.DependencyInjection.dll
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.API/bin/Debug/net6.0/NLayer.Caching.dll
+/Users/mustafasameturan/Projects/NLayerArchitecture/NLayer.API/bin/Debug/net6.0/NLayer.Caching.pdb
