@@ -35,7 +35,7 @@ public class RepositoryServiceModule : Module
 
         //builder.RegisterType<ProductServiceWithNoCaching>().As<IProductService>().InstancePerLifetimeScope();
 
-        builder.RegisterType<ProductServiceWithCaching>().As<IProductService>().InstancePerLifetimeScope();
+        builder.RegisterType<ProductServiceWithNoCaching>().As<IProductService>().InstancePerLifetimeScope();
         
         //Projede service-repo interface-class'larının kullanıldığı yerlerin assembly'lerini alıyoruz.
         var apiAssembly = Assembly.GetExecutingAssembly();
